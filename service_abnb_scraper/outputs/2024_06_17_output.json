@@ -1,0 +1,2262 @@
+[
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 83,
+        "priceCleaning": 20,
+        "checkin": "2024-06-17",
+        "checkout": "2024-06-18"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-17",
+        "checkout": "2024-06-18"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 55,
+        "priceCleaning": 9,
+        "checkin": "2024-06-18",
+        "checkout": "2024-06-19"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 83,
+        "priceCleaning": 20,
+        "checkin": "2024-06-18",
+        "checkout": "2024-06-19"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-18",
+        "checkout": "2024-06-19"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-18",
+        "checkout": "2024-06-19"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 55,
+        "priceCleaning": 9,
+        "checkin": "2024-06-19",
+        "checkout": "2024-06-20"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 83,
+        "priceCleaning": 20,
+        "checkin": "2024-06-19",
+        "checkout": "2024-06-20"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-19",
+        "checkout": "2024-06-20"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-19",
+        "checkout": "2024-06-20"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-19",
+        "checkout": "2024-06-20"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 148,
+        "priceCleaning": 30,
+        "checkin": "2024-06-19",
+        "checkout": "2024-06-20"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 55,
+        "priceCleaning": 9,
+        "checkin": "2024-06-20",
+        "checkout": "2024-06-21"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 83,
+        "priceCleaning": 20,
+        "checkin": "2024-06-20",
+        "checkout": "2024-06-21"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-20",
+        "checkout": "2024-06-21"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-20",
+        "checkout": "2024-06-21"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-20",
+        "checkout": "2024-06-21"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 148,
+        "priceCleaning": 30,
+        "checkin": "2024-06-20",
+        "checkout": "2024-06-21"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-21",
+        "checkout": "2024-06-22"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-21",
+        "checkout": "2024-06-22"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-21",
+        "checkout": "2024-06-22"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 155,
+        "priceCleaning": 30,
+        "checkin": "2024-06-21",
+        "checkout": "2024-06-22"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 83,
+        "priceCleaning": 20,
+        "checkin": "2024-06-22",
+        "checkout": "2024-06-23"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-22",
+        "checkout": "2024-06-23"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-22",
+        "checkout": "2024-06-23"
+    },
+    {
+        "name": "'Sempre un paradiso' CIR00309500029",
+        "id": "13591868",
+        "lat": 45.801811,
+        "lon": 8.536849,
+        "priceStaying": 110,
+        "priceCleaning": 60,
+        "checkin": "2024-06-22",
+        "checkout": "2024-06-23"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 155,
+        "priceCleaning": 30,
+        "checkin": "2024-06-22",
+        "checkout": "2024-06-23"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 83,
+        "priceCleaning": 20,
+        "checkin": "2024-06-23",
+        "checkout": "2024-06-24"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-23",
+        "checkout": "2024-06-24"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-23",
+        "checkout": "2024-06-24"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 155,
+        "priceCleaning": 30,
+        "checkin": "2024-06-23",
+        "checkout": "2024-06-24"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 55,
+        "priceCleaning": 9,
+        "checkin": "2024-06-24",
+        "checkout": "2024-06-25"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-06-24",
+        "checkout": "2024-06-25"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-24",
+        "checkout": "2024-06-25"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-24",
+        "checkout": "2024-06-25"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-24",
+        "checkout": "2024-06-25"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 155,
+        "priceCleaning": 30,
+        "checkin": "2024-06-24",
+        "checkout": "2024-06-25"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 55,
+        "priceCleaning": 9,
+        "checkin": "2024-06-25",
+        "checkout": "2024-06-26"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-06-25",
+        "checkout": "2024-06-26"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-25",
+        "checkout": "2024-06-26"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-25",
+        "checkout": "2024-06-26"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-25",
+        "checkout": "2024-06-26"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 155,
+        "priceCleaning": 30,
+        "checkin": "2024-06-25",
+        "checkout": "2024-06-26"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-06-26",
+        "checkout": "2024-06-27"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-26",
+        "checkout": "2024-06-27"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-26",
+        "checkout": "2024-06-27"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-26",
+        "checkout": "2024-06-27"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 155,
+        "priceCleaning": 30,
+        "checkin": "2024-06-26",
+        "checkout": "2024-06-27"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 55,
+        "priceCleaning": 9,
+        "checkin": "2024-06-27",
+        "checkout": "2024-06-28"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-06-27",
+        "checkout": "2024-06-28"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-27",
+        "checkout": "2024-06-28"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-27",
+        "checkout": "2024-06-28"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-27",
+        "checkout": "2024-06-28"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 155,
+        "priceCleaning": 30,
+        "checkin": "2024-06-27",
+        "checkout": "2024-06-28"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-28",
+        "checkout": "2024-06-29"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-28",
+        "checkout": "2024-06-29"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-28",
+        "checkout": "2024-06-29"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 157,
+        "priceCleaning": 30,
+        "checkin": "2024-06-28",
+        "checkout": "2024-06-29"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 55,
+        "priceCleaning": 9,
+        "checkin": "2024-06-29",
+        "checkout": "2024-06-30"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-06-29",
+        "checkout": "2024-06-30"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-29",
+        "checkout": "2024-06-30"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 112,
+        "priceCleaning": 45,
+        "checkin": "2024-06-29",
+        "checkout": "2024-06-30"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-29",
+        "checkout": "2024-06-30"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-06-29",
+        "checkout": "2024-06-30"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 157,
+        "priceCleaning": 30,
+        "checkin": "2024-06-29",
+        "checkout": "2024-06-30"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 55,
+        "priceCleaning": 9,
+        "checkin": "2024-06-30",
+        "checkout": "2024-07-01"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-06-30",
+        "checkout": "2024-07-01"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 112,
+        "priceCleaning": 45,
+        "checkin": "2024-06-30",
+        "checkout": "2024-07-01"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 120,
+        "priceCleaning": 21,
+        "checkin": "2024-06-30",
+        "checkout": "2024-07-01"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-06-30",
+        "checkout": "2024-07-01"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 157,
+        "priceCleaning": 30,
+        "checkin": "2024-06-30",
+        "checkout": "2024-07-01"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-01",
+        "checkout": "2024-07-02"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-01",
+        "checkout": "2024-07-02"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 93,
+        "priceCleaning": 37,
+        "checkin": "2024-07-01",
+        "checkout": "2024-07-02"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-01",
+        "checkout": "2024-07-02"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-01",
+        "checkout": "2024-07-02"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-01",
+        "checkout": "2024-07-02"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-01",
+        "checkout": "2024-07-02"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-02",
+        "checkout": "2024-07-03"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 93,
+        "priceCleaning": 37,
+        "checkin": "2024-07-02",
+        "checkout": "2024-07-03"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-02",
+        "checkout": "2024-07-03"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-02",
+        "checkout": "2024-07-03"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-02",
+        "checkout": "2024-07-03"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-02",
+        "checkout": "2024-07-03"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-03",
+        "checkout": "2024-07-04"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 93,
+        "priceCleaning": 37,
+        "checkin": "2024-07-03",
+        "checkout": "2024-07-04"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-03",
+        "checkout": "2024-07-04"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-03",
+        "checkout": "2024-07-04"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-03",
+        "checkout": "2024-07-04"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-03",
+        "checkout": "2024-07-04"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-04",
+        "checkout": "2024-07-05"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-04",
+        "checkout": "2024-07-05"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 93,
+        "priceCleaning": 37,
+        "checkin": "2024-07-04",
+        "checkout": "2024-07-05"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-04",
+        "checkout": "2024-07-05"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-04",
+        "checkout": "2024-07-05"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-04",
+        "checkout": "2024-07-05"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-04",
+        "checkout": "2024-07-05"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-05",
+        "checkout": "2024-07-06"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 93,
+        "priceCleaning": 37,
+        "checkin": "2024-07-05",
+        "checkout": "2024-07-06"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-05",
+        "checkout": "2024-07-06"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-05",
+        "checkout": "2024-07-06"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-05",
+        "checkout": "2024-07-06"
+    },
+    {
+        "name": "Appartamento 10 a Meina, Lago Maggiore",
+        "id": "551899509013749819",
+        "lat": 45.78973,
+        "lon": 8.53628,
+        "priceStaying": 130,
+        "priceCleaning": 30,
+        "checkin": "2024-07-05",
+        "checkout": "2024-07-06"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-05",
+        "checkout": "2024-07-06"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-06",
+        "checkout": "2024-07-07"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 93,
+        "priceCleaning": 37,
+        "checkin": "2024-07-06",
+        "checkout": "2024-07-07"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-06",
+        "checkout": "2024-07-07"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-06",
+        "checkout": "2024-07-07"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-06",
+        "checkout": "2024-07-07"
+    },
+    {
+        "name": "'Sempre un paradiso' CIR00309500029",
+        "id": "13591868",
+        "lat": 45.801811,
+        "lon": 8.536849,
+        "priceStaying": 110,
+        "priceCleaning": 60,
+        "checkin": "2024-07-06",
+        "checkout": "2024-07-07"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-06",
+        "checkout": "2024-07-07"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-07",
+        "checkout": "2024-07-08"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-07",
+        "checkout": "2024-07-08"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 93,
+        "priceCleaning": 37,
+        "checkin": "2024-07-07",
+        "checkout": "2024-07-08"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-07",
+        "checkout": "2024-07-08"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-07",
+        "checkout": "2024-07-08"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-07",
+        "checkout": "2024-07-08"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-08",
+        "checkout": "2024-07-09"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-08",
+        "checkout": "2024-07-09"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 93,
+        "priceCleaning": 37,
+        "checkin": "2024-07-08",
+        "checkout": "2024-07-09"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-08",
+        "checkout": "2024-07-09"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-08",
+        "checkout": "2024-07-09"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-08",
+        "checkout": "2024-07-09"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-08",
+        "checkout": "2024-07-09"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-09",
+        "checkout": "2024-07-10"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 84,
+        "priceCleaning": 34,
+        "checkin": "2024-07-09",
+        "checkout": "2024-07-10"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-09",
+        "checkout": "2024-07-10"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-09",
+        "checkout": "2024-07-10"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-09",
+        "checkout": "2024-07-10"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-09",
+        "checkout": "2024-07-10"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-10",
+        "checkout": "2024-07-11"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 84,
+        "priceCleaning": 34,
+        "checkin": "2024-07-10",
+        "checkout": "2024-07-11"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-10",
+        "checkout": "2024-07-11"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-10",
+        "checkout": "2024-07-11"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-10",
+        "checkout": "2024-07-11"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-10",
+        "checkout": "2024-07-11"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-11",
+        "checkout": "2024-07-12"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-11",
+        "checkout": "2024-07-12"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-11",
+        "checkout": "2024-07-12"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-11",
+        "checkout": "2024-07-12"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-11",
+        "checkout": "2024-07-12"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-12",
+        "checkout": "2024-07-13"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-12",
+        "checkout": "2024-07-13"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-12",
+        "checkout": "2024-07-13"
+    },
+    {
+        "name": "Appartamento 10 a Meina, Lago Maggiore",
+        "id": "551899509013749819",
+        "lat": 45.78973,
+        "lon": 8.53628,
+        "priceStaying": 130,
+        "priceCleaning": 30,
+        "checkin": "2024-07-12",
+        "checkout": "2024-07-13"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 150,
+        "priceCleaning": 26,
+        "checkin": "2024-07-12",
+        "checkout": "2024-07-13"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-12",
+        "checkout": "2024-07-13"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-13",
+        "checkout": "2024-07-14"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 37,
+        "priceCleaning": 93,
+        "checkin": "2024-07-13",
+        "checkout": "2024-07-14"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-13",
+        "checkout": "2024-07-14"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-13",
+        "checkout": "2024-07-14"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-13",
+        "checkout": "2024-07-14"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-14",
+        "checkout": "2024-07-15"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-14",
+        "checkout": "2024-07-15"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-14",
+        "checkout": "2024-07-15"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-15",
+        "checkout": "2024-07-16"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 85,
+        "priceCleaning": 20,
+        "checkin": "2024-07-15",
+        "checkout": "2024-07-16"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-15",
+        "checkout": "2024-07-16"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-15",
+        "checkout": "2024-07-16"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-15",
+        "checkout": "2024-07-16"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-16",
+        "checkout": "2024-07-17"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 85,
+        "priceCleaning": 20,
+        "checkin": "2024-07-16",
+        "checkout": "2024-07-17"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-16",
+        "checkout": "2024-07-17"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-16",
+        "checkout": "2024-07-17"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-16",
+        "checkout": "2024-07-17"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-17",
+        "checkout": "2024-07-18"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 85,
+        "priceCleaning": 20,
+        "checkin": "2024-07-17",
+        "checkout": "2024-07-18"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-17",
+        "checkout": "2024-07-18"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-17",
+        "checkout": "2024-07-18"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-17",
+        "checkout": "2024-07-18"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-18",
+        "checkout": "2024-07-19"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 85,
+        "priceCleaning": 20,
+        "checkin": "2024-07-18",
+        "checkout": "2024-07-19"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-18",
+        "checkout": "2024-07-19"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-18",
+        "checkout": "2024-07-19"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-18",
+        "checkout": "2024-07-19"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-19",
+        "checkout": "2024-07-20"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 89,
+        "priceCleaning": 40,
+        "checkin": "2024-07-19",
+        "checkout": "2024-07-20"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-19",
+        "checkout": "2024-07-20"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-19",
+        "checkout": "2024-07-20"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-20",
+        "checkout": "2024-07-21"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-20",
+        "checkout": "2024-07-21"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-20",
+        "checkout": "2024-07-21"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-21",
+        "checkout": "2024-07-22"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-21",
+        "checkout": "2024-07-22"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-22",
+        "checkout": "2024-07-23"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-22",
+        "checkout": "2024-07-23"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 88,
+        "priceCleaning": 40,
+        "checkin": "2024-07-22",
+        "checkout": "2024-07-23"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 160,
+        "priceCleaning": 28,
+        "checkin": "2024-07-22",
+        "checkout": "2024-07-23"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-22",
+        "checkout": "2024-07-23"
+    },
+    {
+        "name": "Loft con giardino sul lago maggiore. Meina Novara.",
+        "id": "13250170",
+        "lat": 45.7896,
+        "lon": 8.53829,
+        "priceStaying": 55,
+        "priceCleaning": 17,
+        "checkin": "2024-07-23",
+        "checkout": "2024-07-24"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-23",
+        "checkout": "2024-07-24"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-23",
+        "checkout": "2024-07-24"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-23",
+        "checkout": "2024-07-24"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-23",
+        "checkout": "2024-07-24"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-24",
+        "checkout": "2024-07-25"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-24",
+        "checkout": "2024-07-25"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 88,
+        "priceCleaning": 40,
+        "checkin": "2024-07-24",
+        "checkout": "2024-07-25"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-24",
+        "checkout": "2024-07-25"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-24",
+        "checkout": "2024-07-25"
+    },
+    {
+        "name": "Stanza da letto privativa",
+        "id": "1149270343490809382",
+        "lat": 45.79944,
+        "lon": 8.53614,
+        "priceStaying": 60,
+        "priceCleaning": 10,
+        "checkin": "2024-07-25",
+        "checkout": "2024-07-26"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-25",
+        "checkout": "2024-07-26"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-25",
+        "checkout": "2024-07-26"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 89,
+        "priceCleaning": 40,
+        "checkin": "2024-07-25",
+        "checkout": "2024-07-26"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 163,
+        "priceCleaning": 30,
+        "checkin": "2024-07-25",
+        "checkout": "2024-07-26"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 89,
+        "priceCleaning": 40,
+        "checkin": "2024-07-26",
+        "checkout": "2024-07-27"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-26",
+        "checkout": "2024-07-27"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 99,
+        "priceCleaning": 20,
+        "checkin": "2024-07-26",
+        "checkout": "2024-07-27"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 160,
+        "priceCleaning": 30,
+        "checkin": "2024-07-26",
+        "checkout": "2024-07-27"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 99,
+        "priceCleaning": 20,
+        "checkin": "2024-07-27",
+        "checkout": "2024-07-28"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-27",
+        "checkout": "2024-07-28"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 88,
+        "priceCleaning": 40,
+        "checkin": "2024-07-27",
+        "checkout": "2024-07-28"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 160,
+        "priceCleaning": 30,
+        "checkin": "2024-07-27",
+        "checkout": "2024-07-28"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-28",
+        "checkout": "2024-07-29"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 99,
+        "priceCleaning": 20,
+        "checkin": "2024-07-28",
+        "checkout": "2024-07-29"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-28",
+        "checkout": "2024-07-29"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 160,
+        "priceCleaning": 30,
+        "checkin": "2024-07-28",
+        "checkout": "2024-07-29"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-29",
+        "checkout": "2024-07-30"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-29",
+        "checkout": "2024-07-30"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 89,
+        "priceCleaning": 40,
+        "checkin": "2024-07-29",
+        "checkout": "2024-07-30"
+    },
+    {
+        "name": "Vista a 180\u00b0 sul Lago Maggiore e sulle Alpi",
+        "id": "755274115372467598",
+        "lat": 45.79495,
+        "lon": 8.53644,
+        "priceStaying": 99,
+        "priceCleaning": 20,
+        "checkin": "2024-07-29",
+        "checkout": "2024-07-30"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-29",
+        "checkout": "2024-07-30"
+    },
+    {
+        "name": "Appartamento Quadrifoglio",
+        "id": "945023969434594778",
+        "lat": 45.78901221341491,
+        "lon": 8.538148976721178,
+        "priceStaying": 90,
+        "priceCleaning": 20,
+        "checkin": "2024-07-30",
+        "checkout": "2024-07-31"
+    },
+    {
+        "name": "Vista sul Lungo Lago",
+        "id": "897621752107915579",
+        "lat": 45.78428,
+        "lon": 8.53575,
+        "priceStaying": 100,
+        "priceCleaning": 17,
+        "checkin": "2024-07-30",
+        "checkout": "2024-07-31"
+    },
+    {
+        "name": "Appartamento Primula - Meina",
+        "id": "43750019",
+        "lat": 45.79143,
+        "lon": 8.53777,
+        "priceStaying": 85,
+        "priceCleaning": 40,
+        "checkin": "2024-07-30",
+        "checkout": "2024-07-31"
+    },
+    {
+        "name": "La finestra sul lago",
+        "id": "1023039395058689513",
+        "lat": 45.79646428644209,
+        "lon": 8.535562567412853,
+        "priceStaying": 160,
+        "priceCleaning": 28,
+        "checkin": "2024-07-30",
+        "checkout": "2024-07-31"
+    },
+    {
+        "name": "La \"Dimora Riflessa\": solo relax",
+        "id": "953630992616380484",
+        "lat": 45.788793661947906,
+        "lon": 8.537768596468714,
+        "priceStaying": 165,
+        "priceCleaning": 30,
+        "checkin": "2024-07-30",
+        "checkout": "2024-07-31"
+    }
+]

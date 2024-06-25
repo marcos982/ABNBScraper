@@ -1,0 +1,46 @@
+services:
+  # abnb-scraper:
+  #   container_name: abnb-scraper
+  #   build:
+  #     context: ./service-abnb-scraper
+  #   # image: python:3.10-alpine    
+  #   platform: linux/amd64
+  #   volumes:
+  #     - "json_snapshots:/outputs"
+
+  db:
+    container_name: bnb-db-container   
+    image: postgres
+    command: ["postgres", "-c", "log_statement=all"]
+    restart: always
+    shm_size: 128mb
+    platform: linux/amd64
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+    ports:
+      - "5433:5432"
+    volumes:
+      - "./service_db/postgres_data:/var/lib/postgresql/data"
+      - "./service_db/sql:/docker-entrypoint-initdb.d"  
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -h 127.0.0.1 -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  abnb-db-updater:
+    container_name: abnb-db-updater
+    build:
+      context: ./service_abnb_db_updater
+    platform: linux/amd64
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - "json_snapshots:/inputs"
+
+volumes:
+  json_snapshots: 
+    external: true
+
